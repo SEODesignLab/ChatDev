@@ -1,0 +1,31 @@
+Task:
+create an app that takes users target Keyword and creates a Google Ads campaign strategy for them. This strategy based off 2 params #1 - Performance Max or #2 - Search. The third and final question param we ask to qualify them is target Location and based off all these options & params return an appropriate Headline within 30 characters that matches the target Keyword and params. We want to provide 25 Headline suggestions. 
+
+Config:
+ChatEnvConfig.clear_structure: True
+ChatEnvConfig.git_management: False
+ChatEnvConfig.gui_design: True
+ChatEnvConfig.incremental_develop: False
+
+
+Roster:
+Chief Executive Officer, Counselor, Chief Human Resource Officer, Chief Product Officer, Chief Technology Officer, Programmer, Code Reviewer, Software Test Engineer, Chief Creative Officer
+
+Modality:
+application
+
+Ideas:
+
+
+Language:
+ Python
+
+Code_Version:
+4.0
+
+Proposed_images:
+0
+
+Incorporated_images:
+0
+

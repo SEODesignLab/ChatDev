@@ -1,0 +1,31 @@
+Task:
+Create an app with OpenAI and Serper Dev APIs, utilizing our APIs to avoid user costs. Integrate Stripe for payments, with admin-exclusive settings. Include member account creation/login, accessible from the home tab. Design tabs: home, chat, history, profile, and admin, each with assigned roles. Focus on capturing target keywords for Free/PowerUser/ProUser/Enterprise accounts, creating Google Ads campaigns. Implement light/dark toggle, user-specified #1 Performance Max or #2 Search, location, and Service/E-Commerce type. Generate 25 titles (30 characters), 15 long headlines (90 characters), and 10 descriptions (30 & 90 characters). Suggest up to 20 images with Alt tags. Provide up to 10 audience signals and search themes, ensuring location terms. PowerUser/ProUser/Enterprise accounts can offer API access. Admins have full control. Include credits to SEODesignLab, LLC (2017-2023) in the app footer.
+
+Config:
+ChatEnvConfig.clear_structure: True
+ChatEnvConfig.git_management: False
+ChatEnvConfig.gui_design: True
+ChatEnvConfig.incremental_develop: False
+
+
+Roster:
+Chief Executive Officer, Counselor, Chief Human Resource Officer, Chief Product Officer, Chief Technology Officer, Programmer, Code Reviewer, Software Test Engineer, Chief Creative Officer
+
+Modality:
+web application
+
+Ideas:
+
+
+Language:
+ Python
+
+Code_Version:
+4.0
+
+Proposed_images:
+0
+
+Incorporated_images:
+0
+
